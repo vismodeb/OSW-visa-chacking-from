@@ -273,6 +273,8 @@ img {
 *****************************/
 .footer_area{
   color: #ffffff;
+}
+.footer_back{
   background: #1ca101;
 }
 .footer_logo img{
@@ -284,8 +286,13 @@ img {
 
 /* start contact area css 
 *****************************/
+.contact_area {
+  padding: 20px 0;
+}
 .contact_item{
   padding: 70px 20px;
+  border: 2px solid rgb(122, 122, 122);
+  box-shadow: 10px 10px 5px lightblue;
 }
 .contact_heading h2{
   font-size: 36px;
